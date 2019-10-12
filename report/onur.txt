@@ -1,0 +1,1 @@
+{"report": {"environment": {}, "tests": [], "summary": {"num_tests": 0, "duration": 0.007948160171508789}, "created_at": "2019-10-12 15:46:55.339746"}}

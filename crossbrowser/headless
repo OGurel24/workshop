@@ -1,0 +1,11 @@
+from selenium import webdriver
+import time
+
+opts = webdriver.ChromeOptions()
+opts.headless = True
+print(opts.headless)
+driver = webdriver.Chrome(options=opts)
+driver.get('https://python.org')
+print(driver.title)
+
+time.sleep(10)
